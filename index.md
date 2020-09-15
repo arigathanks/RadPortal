@@ -7,7 +7,4 @@ Please wait 5-10 minutes for your request to be approved.
 ### [② Medicus Medical Center 🏥](https://drive.google.com/drive/folders/1XDL81PD1TQwQH-oEE0wXQh_1isFGkrse?usp=sharing)
 ### [③ Western Visayas Medical Center 🏥](https://drive.google.com/drive/folders/15L-2_NJbmHVreGEuEdKyQnsCjwTxcVum?usp=sharing)
 
-## Request for access demonstration
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+## Demo of "How to request for access"
