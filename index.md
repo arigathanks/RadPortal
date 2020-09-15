@@ -1,7 +1,7 @@
 # RadPortal
 
 # 👨‍⚕️ Dr. Budok's Radiology Portal 
-
+This page serves as a web portal that provides collaborators with a single access point to information and file directories such as Google Drive.
 
 ## 🖱️ Click the respective hospital and request for access to the Google Drive.
 If your request is approved, you may start uploading files into the designated folder.
