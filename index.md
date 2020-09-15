@@ -2,7 +2,7 @@
 
 # Dr. Budok's Radiology Portal
 
-## Select respective hospital and request for access to the Google Drive.
+## Click the respective hospital and request for access to the Google Drive.
 If your request is approved, you may start uploading files into the designated folder.
 Requesting for access is a one time request.
 Please wait 5-10 minutes for your request to be approved.
@@ -14,7 +14,7 @@ Please wait 5-10 minutes for your request to be approved.
 
 ## ✋ 5 Steps To Request Access
 ## Step 1
-Click one of one of the options above **HIGHLIGHTED IN RED**.
+Click one of one of the options above **HIGHLIGHTED IN RED**
 
 You may be prompted to log in an existing "Gmail Account". This will be used to access the Google Drive.
 
