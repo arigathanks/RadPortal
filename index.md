@@ -14,6 +14,11 @@ Please wait 5-10 minutes for your request to be approved.
 
 
 ## ✋ 5 Steps To Request Access
+Below is a tutorial on how to request for access on our Google Drive.
+
+**USE YOUR OWN PERSONAL INFO**
+
+
 ## Step 1
 Click one of one of the options above **HIGHLIGHTED IN RED**
 
