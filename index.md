@@ -12,3 +12,13 @@ Please wait 5-10 minutes for your request to be approved.
 ### [③ Western Visayas Medical Center 🏥](https://drive.google.com/drive/folders/15L-2_NJbmHVreGEuEdKyQnsCjwTxcVum?usp=sharing)
 
 ## Demo of "How to request for access"
+#### Step 1
+![Step 1](/path/to/img.jpg)
+#### Step 2
+![Step 1](/path/to/img.jpg)
+#### Step 3
+![Step 1](/path/to/img.jpg)
+#### Step 4
+![Step 1](/path/to/img.jpg)
+#### Step 5
+![Step 1](/path/to/img.jpg)
