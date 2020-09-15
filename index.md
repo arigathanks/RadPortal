@@ -14,9 +14,9 @@ Please wait 5-10 minutes for your request to be approved.
 
 ## ✋ 5 Steps To Request Access
 ## Step 1
-![Step 1](step1.png) 
+Click one of one of the options above **HIGHLIGHTED IN RED**.
 
-Once you clicked one of the options above, you may be prompted to log in an existing "Gmail Account". This will be used to access the Google Drive.
+You may be prompted to log in an existing "Gmail Account". This will be used to access the Google Drive.
 
 ## Step 2
 ![Step 2](step2.png)
