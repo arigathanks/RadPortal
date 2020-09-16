@@ -12,8 +12,8 @@ Make sure the file you're uploading is **ZIPPED(.zip)** and **NOT** (.rar).
 Example: DELACRUZ_JOSE 9-15-20 PLAIN.zip
 
 
-### [① 🏥 The Medical City Iloilo ](https://www.dropbox.com/request/oAWEwIXFIrlPuhUn62Ao)
-### [② 🏥 Medicus Medical Center ](https://www.dropbox.com/request/R32MiVic1zAm21GIxo4I)
+### [① 🏥 The Medical City Iloilo ](https://www.dropbox.com/request/SdpHLAAhI0xdNePb7WKo)
+### [② 🏥 Medicus Medical Center ](https://www.dropbox.com/request/oAWEwIXFIrlPuhUn62Ao)
 ### [③ 🏥 Western Visayas Medical Center ](https://www.dropbox.com/request/R32MiVic1zAm21GIxo4I)
 
 ## 💭 Upload Guide
