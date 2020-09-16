@@ -1,9 +1,9 @@
 ![image](placeholder.png)
 # 👨‍⚕️ Dr. Douglas Budok's Radiology Portal 
-This page serves as a web portal that provides collaborators with a single access point to information and file directories such as Google Drive.
+This page serves as a web portal that provides collaborators with a single access point to information and file directories such as DropBox.
 
 
-## 🖱️ Click the respective hospital and start uploading files.
+## 🖱️ Click the respective hospital and start uploading files. (No sign-in required)
 Make sure the file you're uploading is **ZIPPED(.zip)** and **NOT** (.rar).
 
 ## 📃 Please follow our naming conventions before uploading
