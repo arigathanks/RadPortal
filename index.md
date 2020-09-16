@@ -7,7 +7,7 @@ This page serves as a web portal that provides collaborators with a single acces
 Once you're signed in, you may start uploading files into the designated folder.
 Make sure the file you're uploading is **ZIPPED(.zip)** and **NOT** (.rar).
 
-## Please follow naming conventions before uploading
+## 📃 Please follow naming conventions before uploading
 **[PATIENT_NAME] [DATE] [COMMENT].zip**
 
 
@@ -15,5 +15,5 @@ Make sure the file you're uploading is **ZIPPED(.zip)** and **NOT** (.rar).
 ### [② 🏥 Medicus Medical Center ](https://drive.google.com/drive/folders/1XDL81PD1TQwQH-oEE0wXQh_1isFGkrse?usp=sharing)
 ### [③ 🏥 Western Visayas Medical Center ](https://drive.google.com/drive/folders/15L-2_NJbmHVreGEuEdKyQnsCjwTxcVum?usp=sharing)
 
-## Sign-In & Upload Guide
+## 💭 Sign-In & Upload Guide
 ![demo](demo.gif)
