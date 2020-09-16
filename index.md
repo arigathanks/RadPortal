@@ -3,10 +3,9 @@
 This page serves as a web portal that provides collaborators with a single access point to information and file directories such as Google Drive.
 
 
-## 🖱️ Click the respective hospital and request for access to the Google Drive.
-If your request is approved, you may start uploading files into the designated folder.
-Requesting for access is a one time request.
-Please wait 5-10 minutes for your request to be approved.
+## 🖱️ Click the respective hospital and sign in for access to the Google Drive.
+Once you're signed in, you may start uploading files into the designated folder.
+Make sure the file you're uploading is **ZIPPED** (.zip) and **NOT** (.rar).
 
 
 ### [① 🏥 The Medical City Iloilo ](https://drive.google.com/drive/folders/1Oli8-FsKlBs2TlBeY-HgykXdQsqHss8c?usp=sharing)
