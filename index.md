@@ -1,4 +1,4 @@
-# 🌐 RadPortal 🌐
+# 🌐 RadPortal
 # 👨‍⚕️ Dr. Douglas Budok's Radiology Portal 
 This page serves as a web portal that provides collaborators with a single access point to information and file directories such as Google Drive.
 
