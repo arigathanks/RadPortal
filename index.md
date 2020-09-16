@@ -17,4 +17,4 @@ Example: DELACRUZ_JOSE 9-15-20 PLAIN.zip
 ### [③ 🏥 Western Visayas Medical Center ](https://www.dropbox.com/request/R32MiVic1zAm21GIxo4I)
 
 ## 💭 Upload Guide
-
+![demo](demo.gif)
