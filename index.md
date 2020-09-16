@@ -5,7 +5,7 @@ This page serves as a web portal that provides collaborators with a single acces
 
 ## 🖱️ Click the respective hospital and sign in for access to the Google Drive.
 Once you're signed in, you may start uploading files into the designated folder.
-Make sure the file you're uploading is **ZIPPED** (.zip) and **NOT** (.rar).
+Make sure the file you're uploading is **ZIPPED(.zip)** and **NOT** (.rar).
 
 
 ### [① 🏥 The Medical City Iloilo ](https://drive.google.com/drive/folders/1Oli8-FsKlBs2TlBeY-HgykXdQsqHss8c?usp=sharing)
