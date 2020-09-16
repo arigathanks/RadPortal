@@ -9,6 +9,7 @@ Make sure the file you're uploading is **ZIPPED(.zip)** and **NOT** (.rar).
 
 ## 📃 Please follow naming conventions before uploading
 **[PATIENT_NAME] [DATE] [COMMENT].zip**
+Example: DELACRUZ_JOSE 9-15-20 PLAIN.zip
 
 
 ### [① 🏥 The Medical City Iloilo ](https://drive.google.com/drive/folders/1Oli8-FsKlBs2TlBeY-HgykXdQsqHss8c?usp=sharing)
