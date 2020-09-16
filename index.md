@@ -12,9 +12,9 @@ Make sure the file you're uploading is **ZIPPED(.zip)** and **NOT** (.rar).
 Example: DELACRUZ_JOSE 9-15-20 PLAIN.zip
 
 
-### [① 🏥 The Medical City Iloilo ](https://drive.google.com/drive/folders/1Oli8-FsKlBs2TlBeY-HgykXdQsqHss8c?usp=sharing)
-### [② 🏥 Medicus Medical Center ](https://drive.google.com/drive/folders/1XDL81PD1TQwQH-oEE0wXQh_1isFGkrse?usp=sharing)
-### [③ 🏥 Western Visayas Medical Center ](https://drive.google.com/drive/folders/15L-2_NJbmHVreGEuEdKyQnsCjwTxcVum?usp=sharing)
+### [① 🏥 The Medical City Iloilo ](https://www.dropbox.com/request/oAWEwIXFIrlPuhUn62Ao)
+### [② 🏥 Medicus Medical Center ](https://www.dropbox.com/request/R32MiVic1zAm21GIxo4I)
+### [③ 🏥 Western Visayas Medical Center ](https://www.dropbox.com/request/R32MiVic1zAm21GIxo4I)
 
-## 💭 Sign-In & Upload Guide
-![demo](demo.gif)
+## 💭 Upload Guide
+
