@@ -6,8 +6,9 @@ This page serves as a web portal that provides collaborators with a single acces
 ## 🖱️ Click the respective hospital and start uploading files.
 Make sure the file you're uploading is **ZIPPED(.zip)** and **NOT** (.rar).
 
-## 📃 Please follow naming our conventions before uploading
+## 📃 Please follow our naming conventions before uploading
 **[PATIENT_NAME] [DATE] [COMMENT].zip**
+
 Example: DELACRUZ_JOSE 9-15-20 PLAIN.zip
 
 
