@@ -6,8 +6,19 @@ This page serves as a web portal that provides collaborators with a single acces
 ## 🖱️ Click the respective hospital and start uploading files. (No sign-in required)
 Make sure the file you're uploading is **ZIPPED(.zip)** and **NOT** (.rar).
 
-## ⚠️ Rename the zip file before uploading
-### **[PATIENT_NAME] [DATE] [COMMENT].zip**
+## ⚠️ Guidelines (Read me before uploading!)
+If something is not clear, click the "⏯️" beside the "① " for a video demo and explanation.  
+[⏯️](https://files.catbox.moe/rfw4kj.gif) ① Filesize limit is 2GB.  
+[⏯️](https://files.catbox.moe/rfw4kj.gif) ② 🗜️ Use .zip to compress files. Do not use .rar compression.  
+[⏯️](https://files.catbox.moe/rfw4kj.gif) ③ Verify the files are only zipped ONCE before uploading. Look at the file extension.  
+----- Example:  
+----- 📁 patient.zip ✔️  
+----- 📁 patient.zip.zip ❌  
+[⏯️](https://files.catbox.moe/rfw4kj.gif) ④ For accompanying documents, please attach a separate file (.txt, .doc, .docx) and name it according to the patient file.  
+----- Example:  
+----- 📁 patient.zip ✔️  
+----- 📝patient_history.txt ✔️  
+
 
 
 ### Example: DELACRUZ_JOSE 9-15-20 PLAIN.zip
