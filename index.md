@@ -5,6 +5,7 @@ This page serves as a web portal that provides collaborators with a single acces
 ## ⚠️ Guidelines (Read me before uploading!)
 Click the play button "⏯️" beside the bolded number for a video demo and explanation.  
 If something is still not clear, contact me at **klbc.dev@gmail.com**  
+  
 [⏯️](https://files.catbox.moe/rfw4kj.gif) ⒈  Filesize limit is 2GB.  
 [⏯️](https://files.catbox.moe/rfw4kj.gif) ⒉  Use .zip to compress files. Do not use .rar compression.  
 [⏯️](https://files.catbox.moe/rfw4kj.gif) ⒊  Verify the files are only zipped ONCE before uploading. Look at the file extension.  
