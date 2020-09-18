@@ -6,10 +6,11 @@ This page serves as a web portal that provides collaborators with a single acces
 ## 🖱️ Click the respective hospital and start uploading files. (No sign-in required)
 Make sure the file you're uploading is **ZIPPED(.zip)** and **NOT** (.rar).
 
-## 📃 Please follow our naming conventions before uploading
-**[PATIENT_NAME] [DATE] [COMMENT].zip**
+## ⚠️ Rename the zip file before uploading
+### **[PATIENT_NAME] [DATE] [COMMENT].zip**
 
-Example: DELACRUZ_JOSE 9-15-20 PLAIN.zip
+
+### Example: DELACRUZ_JOSE 9-15-20 PLAIN.zip
 
 
 ### [① 🏥 The Medical City Iloilo ](https://www.dropbox.com/request/SdpHLAAhI0xdNePb7WKo)
