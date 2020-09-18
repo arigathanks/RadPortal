@@ -6,13 +6,13 @@ This page serves as a web portal that provides collaborators with a single acces
 Click the play button "⏯️" beside the bolded number for a video demo and explanation.  
 If something is still not clear, contact me at **klbc.dev@gmail.com**  
   
-[⏯️](https://files.catbox.moe/rfw4kj.gif) **(1)** Filesize limit is 2GB.  
-[⏯️](https://files.catbox.moe/rfw4kj.gif) **(2)** Use .zip to compress files. Do not use .rar compression.  
-[⏯️](https://files.catbox.moe/rfw4kj.gif) **(3)** Verify the files are only zipped ONCE before uploading. Look at the file extension.  
+[⏯️](https://drive.google.com/file/d/147yykKxCFz02ldhHa2ajupQUG-3Hz8cK/preview) **(1)** Filesize limit is 2GB.  
+[⏯️](https://drive.google.com/file/d/147yykKxCFz02ldhHa2ajupQUG-3Hz8cK/preview) **(2)** Use .zip to compress files. Do not use .rar compression.  
+[⏯️](https://drive.google.com/file/d/1x8z5-LcWJBSG1v0gn0ac8YfaK3CgyUEy/preview) **(3)** Verify the files are only zipped ONCE before uploading. Look at the file extension.  
 ----- Example:  
 ----- 📁 patientName.zip ✔️  
 ----- 📁 patientName.zip.zip ❌  
-[⏯️](https://files.catbox.moe/rfw4kj.gif) ⒋ For accompanying documents, please attach a separate file (.txt, .doc, .docx) and name it according to the patient file.  
+[⏯️](https://drive.google.com/file/d/1TPlPkYWtr9ZKMd6csGOqICX9vVtcHLn6/preview) **(4)** For accompanying documents, please attach a separate file (.txt, .doc, .docx) and name it according to the patient file.  
 ----- Example:  
 ----- 📁 patientName.zip ✔️  
 ----- 📝 patientName_history.txt ✔️  
