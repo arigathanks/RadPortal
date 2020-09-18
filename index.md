@@ -1,6 +1,6 @@
 ![image](placeholder.png)
 # 👨‍⚕️ Dr. Douglas Budok's Radiology Portal 
-This page serves as a web portal that provides collaborators with a single access point to information and file directories such as DropBox.  
+This page serves as a web portal that provides collaborators with a single access point to information and dedicated file upload services.
 
 ## ⚠️ Guidelines (Read me before uploading!)
 Click the play button "⏯️" beside the number "⒈" for a video demo and explanation.  
