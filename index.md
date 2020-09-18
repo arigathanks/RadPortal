@@ -3,7 +3,8 @@
 This page serves as a web portal that provides collaborators with a single access point to information and file directories such as DropBox.  
 
 ## ⚠️ Guidelines (Read me before uploading!)
-Click the play button "⏯️" beside the number "① " for a video demo and explanation. If something is still not clear, contact me at **klbc.dev@gmail.com**  
+Click the play button "⏯️" beside the number "⒈" for a video demo and explanation.  
+If something is still not clear, contact me at **klbc.dev@gmail.com**  
 [⏯️](https://files.catbox.moe/rfw4kj.gif) ⒈  Filesize limit is 2GB.  
 [⏯️](https://files.catbox.moe/rfw4kj.gif) ⒉ 🗜️ Use .zip to compress files. Do not use .rar compression.  
 [⏯️](https://files.catbox.moe/rfw4kj.gif) ⒊ Verify the files are only zipped ONCE before uploading. Look at the file extension.  
