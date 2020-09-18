@@ -11,12 +11,12 @@ If something is not clear, click the play button "⏯️" beside the number "①
 [⏯️](https://files.catbox.moe/rfw4kj.gif) ⒉ 🗜️ Use .zip to compress files. Do not use .rar compression.  
 [⏯️](https://files.catbox.moe/rfw4kj.gif) ⒊ Verify the files are only zipped ONCE before uploading. Look at the file extension.  
 ----- Example:  
------ 📁 patient.zip ✔️  
------ 📁 patient.zip.zip ❌  
+----- 📁 patientName.zip ✔️  
+----- 📁 patientName.zip ❌  
 [⏯️](https://files.catbox.moe/rfw4kj.gif) ⒋ For accompanying documents, please attach a separate file (.txt, .doc, .docx) and name it according to the patient file.  
 ----- Example:  
------ 📁 patient.zip ✔️  
------ 📝patient_history.txt ✔️
+----- 📁 patientName.zip ✔️  
+----- 📝patientName_history.txt ✔️
 
 
 
